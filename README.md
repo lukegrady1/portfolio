@@ -4,7 +4,7 @@ A modern, responsive portfolio built with React, TypeScript, and Tailwind CSS. S
 
 ## 🚀 Live Demo
 
-Visit the portfolio at: [luke-grady-portfolio.github.io](https://luke-grady-portfolio.github.io)
+Visit the portfolio at: [https://lukegrady1.github.io/portfolio/](https://lukegrady1.github.io/portfolio/)
 
 ## ✨ Features
 
